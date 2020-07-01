@@ -1,2 +1,2 @@
-# basic-typescript-boilerplate
-A boilerplate for Typescript applications
+# typescript-boilerplate
+Starter repo for Typescript
